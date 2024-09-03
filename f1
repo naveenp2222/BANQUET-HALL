@@ -1,0 +1,4 @@
+ssh -i "bbbqqbe1111.pem" ec2-user@ec2-54-255-223-188.ap-southeast-1.compute.amazon
+Git is a tool used to keep track of changes to files, especially the code of the projects. It is termed a distributed version control system because of its behaviour to allow multiple people to work on the same project, even if they are not connected to a common server.
+
+It was created by a person named Linus Torvalds in 2005 for the development of the Linux kernel. In this article, we will discuss Git, its features, advantages, and disadvantages
